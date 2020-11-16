@@ -8,8 +8,6 @@
 ## About me
 Whether I want to or not, I'm always learning new stuff that makes me a better developer and person. That's just how it is. Solving problems for a living isn't just good for your financial situation, it is also a great way to improve as a person and learn new skills. I like to believe that when I reach the end of this journey, that has only just begun, I'll be a better person than when it began. Doesn't sound unrealistic, right?
 
-[![CodersRank widget](https://84iq3s8sz0.execute-api.eu-central-1.amazonaws.com/plazide.png)](https://profile.codersrank.io/plazide)
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/chj_web.svg?style=social)](https://twitter.com/chj_web)
 ![GitHub User's stars](https://img.shields.io/github/stars/plazide?style=social)
 
