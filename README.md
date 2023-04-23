@@ -1,7 +1,6 @@
 # Hey, what's up? 👋
 
 - My name is Carl.
-- I'm freelancing.
 - I'm currently working on [Fauna GQL Upload](https://github.com/Plazide/fauna-gql-upload).
 - I'm passionate about web development.
 - Want to talk? Send me an email ([carl@chjweb.se](mailto:carl@chjweb.se)) or a DM on Twitter([@chj_web](https://twitter.com/chj_web))
