@@ -2,7 +2,7 @@
 
 - My name is Carl.
 - I'm passionate about web development.
-- Want to talk? Send me an email ([carl@chjweb.se](mailto:carl@chjweb.se)) or a DM on Twitter([@chj_web](https://twitter.com/chj_web))
+- Want to talk? Send me an email ([carl@chjweb.se](mailto:carl@chjweb.se)).
 
 ## About me
 I started learning web development at age 15, that was in 2013. Since then, I've developed a passion for web development. It sounds boring when you say it like that: "web development". What the passion is really about is solving problems, challenging myself, and creating awesome things, my medium for doing so is simply called web development.
